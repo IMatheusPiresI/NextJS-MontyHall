@@ -1,0 +1,62 @@
+.area{
+    width: var(--area-door-width);
+    height: var(--area-door-height);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+
+    &__frame {
+        width: 90%;
+        height: 100%;
+        position: relative;
+        border-left: 5px solid brown;
+        border-top: 5px solid brown;
+        border-right: 5px solid brown;
+        background-color: #0005;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    
+    &__door {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(255, 123, 0);
+        text-align: center;
+        padding: 2em 1em;
+
+        & p {
+            color: #fff;
+            font-size: 35px;
+            font-weight: bold;
+        }
+    
+        & div {
+            background-color: brown;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            border: 4px solid rgb(100, 33, 33);
+            position: absolute;
+            top: calc(0.45 * var(--area-door-height));
+        }
+    }
+}
+
+.active {
+    border-left: 2px solid yellow;
+    border-top: 2px solid yellow;
+    border-right: 2px solid yellow;
+
+    & div:last-child {
+        border: 4px solid yellow;
+    }
+}
+
+.floor {
+    width: 100%;
+    height: 7px;
+    background-color: #FFF;
+}
+

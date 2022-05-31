@@ -1,0 +1,36 @@
+.gift {
+    width: 110px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+
+    &__cover {
+        width: 100%;
+        height: 30px;
+        background-color: #0f9120;
+    }
+
+    &__body {
+        width: 80%;
+        height: 100%;
+        background-color: #0f9120;
+    }
+
+    &__horizontal_link {
+        width: 80%;
+        height: 10px;
+        background-color: red;
+        position: absolute;
+        top: calc(0.5 * 100px);
+    }
+
+    &__vertical_link {
+        height: 100%;
+        width: 10px;
+        background-color: red;
+        position: absolute;
+        top: 0;
+    }
+}
