@@ -32,7 +32,7 @@ Repositório do projeto **MontyHall** desenvolvido com fins didáticos de aprimo
 
        $ git clone https://github.com/IMatheusPiresI/React-API-Filmes.git
 
-◽ Acessar a pasta react-filmes e executar o comando <br>
+◽ Acessar a pasta montyhall e executar o comando <br>
 
         $ npm install
 
@@ -42,7 +42,7 @@ Repositório do projeto **MontyHall** desenvolvido com fins didáticos de aprimo
 
 <h3 id="instalacao">🛠️ Acessar Projeto</h3>
 
-Ao clicar em <a href="https://movies-app-beta-henna.vercel.app" target="_blank">Movies App</a>🔗 o site irá abrir para que possa utilizá-lo. Ele salvará as informações de filmes sorteados e pesquisados caso feche e página e abra novamente, todos esse dados são salvos e recuperados via localStorage;
+Ao clicar em <a href="https://montyhall-game-opal.vercel.app" target="_blank">Monty Hall</a>🔗 o site irá abrir para que possa utilizá-lo. Ele salvará as informações das portas abertas e selecionadas caso o usuário atualize a página, todos esse dados são salvos e recuperados via localStorage;
 
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
@@ -51,6 +51,7 @@ Ao clicar em <a href="https://movies-app-beta-henna.vercel.app" target="_blank">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/next/react/react-original.svg">
 </div>
 
 <h3 id="sobre">📍 Sobre</h3>
