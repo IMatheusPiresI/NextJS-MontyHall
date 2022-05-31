@@ -38,7 +38,7 @@ Repositório do projeto **MontyHall** desenvolvido com fins didáticos de aprimo
 
 ◽ Após a instalação das dependências, rodar o comando  <br>
 
-        $ npm start
+        $ npm run dev
 
 <h3 id="instalacao">🛠️ Acessar Projeto</h3>
 
