@@ -35,7 +35,7 @@ export default function Card({players}: CardProps){
     function handleStartGame() {
         localStorage.removeItem('doors');
         if(players) {
-            const randomDoorHaveGift = Math.round(Math.random() * qtyDoors)
+            const randomDoorHaveGift = Math.ceil(Math.random() * qtyDoors)
             router.push(`/game/${qtyDoors}/${randomDoorHaveGift === 0 ? 1 : randomDoorHaveGift}`)
         }else {
             router.push(`/game/${qtyDoors}/${doorhaveGift}`)
