@@ -30,7 +30,7 @@ Repositório do projeto **MontyHall** desenvolvido com fins didáticos de aprimo
 ◽ <a href="https://github.com/IMatheusPiresI/React-API-Filmes">Acessar</a>🔗 o código fonte pelo GitHub. <br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
-       $ git clone https://github.com/IMatheusPiresI/React-API-Filmes.git
+       $ git clone https://github.com/IMatheusPiresI/NextJS-MontyHall
 
 ◽ Acessar a pasta montyhall e executar o comando <br>
 
@@ -51,25 +51,23 @@ Ao clicar em <a href="https://montyhall-game-opal.vercel.app" target="_blank">Mo
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-       <img align="center" alt="CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
 </div>
 
 <h3 id="sobre">📍 Sobre</h3>
 
-✅ Desenvolvido com React, Styled-Components, Context API, React Hooks. <br>
-✅ O projeto é uma SPA, trocando apenas o conteúdo dentro da página home.<br>
-✅ Dados de busca do usuário salvados em localStorage para que as pesquisas e sorteios continuem após fechar e abrir o navegador <br>
-✅ O algorítimo faz a checagem das ultímas buscas e requisições a API e a retorna ao abrir a página novamente. <br>
-✅ Desenvolvido o catálogo, campo de busca e sorteio de filmes com base na API do TMDB (The Movie Database).<br>
-✅ Sessão de Desenvolvedor criada utilizando a API do Github, em formato de clone da aba Repositórios.<br>
-✅ Toda criação criada utilizando Styled-Components<br>
-✅ Animações e efeitos criados utilizando o SetTimeout() para sincronizar a apresentação. <br><br>
+✅ Desenvolvido com NextJS, SASS, Context API, React Hooks, LocalStorage. <br>
+✅ O projeto é uma SPA, Realizando a troca de telas e atualização dos itens sem carregamento.<br>
+✅ Atributos das portas como selecionanda, aberta, tem presente. São salvos em LocalStorage e recuperados caso o usuário atualize a página<br>
+✅ Projeto recriado do curso da Cod3r.<br>
+✅ Novas funcionalidades implementadas, como modo de 1 jogador.<br>
+✅ Toda estilização criada utilizando SASS module e global<br>
 
 <h3 id="extras">📢 Extras</h3>
 
-✅ Criei uma unica página para a plicação, onde mostrava apenas o menu vertical. <br>
-✅ Todo o conteúdo são páginas acessadas através do roteamento do React-Router-Dom. <br>
-✅ Trabalhei com diversas requisições a API para criar as Sessões e funcionalidades. <br>
+✅ Criei novas funcionalidades e validações. <br>
+✅ Todo o conteúdo são páginas acessadas através do roteamento do Next. <br>
+✅ Trabalhei com Context API para repassar os estados das portas para as páginas. <br>
 ✅ Projeto responsivo. <br>
 
 <h3 id="status">📌 Status do projeto</h3>
