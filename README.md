@@ -51,7 +51,7 @@ Ao clicar em <a href="https://montyhall-game-opal.vercel.app" target="_blank">Mo
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/nextjs/react/react-original.svg">
+       <img align="center" alt="CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
 </div>
 
 <h3 id="sobre">📍 Sobre</h3>
